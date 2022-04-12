@@ -48,7 +48,7 @@ export function App() {
            <div className="text-center">
              <span className="txt1">Não possui conta?</span>
 
-             <a className="txt2" href="#">Criar Conta.</a>
+             <a className="txt2" href="/">Criar Conta.</a>
            </div>
 
          </form>
